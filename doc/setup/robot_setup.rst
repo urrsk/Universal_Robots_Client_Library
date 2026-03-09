@@ -70,6 +70,7 @@ The robot needs to be prepared before it can be used with the client library.
 
 URCap installation
 ------------------
+
 Using the External control URCap, you will first launch the driver on the remote PC
 and then start the program, with the External Control URCap node, from the tech pendant
 to connect to the remote application.
